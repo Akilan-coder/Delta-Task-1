@@ -9,8 +9,8 @@
     border: 5px solid rgb(0, 0, 0);
     grid-template-areas:
 		"a b c"
-        "d e f"
-        "g h i";
+                "d e f"
+                "g h i";
     position: absolute;
     padding: repeat(4,10px);
     width: 160px;
@@ -36,8 +36,8 @@
 		"A B C D E"
 		"F G H I J"
 		"K L M N O"
-        "P Q R S T"
-        "U V W X Z";
+                "P Q R S T"
+                "U V W X Z";
     position: absolute;
     padding: repeat(4,10px);
     width: 270px;
