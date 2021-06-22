@@ -148,7 +148,7 @@ if(x === 9){
     alert("you win!");
   victory.play();
   stopTimer();
- 
+  location.reload();
 }
 
 }
